@@ -1,7 +1,7 @@
 # wolflab-scripts
 
 This encompasses 2 projects 
-1. Genome Assembly & Downstream Analysis of 192 Bacteriodetes strains
+1. Genome Assembly & Downstream Analysis of 192 Bacteriodetes strains  
 generate_adapter_files.py - generate FASTA adapter files for trimmomatic
 genome_assembly_pipeline.sh - self-descriptive, preprocesses reads, assembles genome with SPades
 preparing_contigs_db.sh - preprocessing for Anv'io
